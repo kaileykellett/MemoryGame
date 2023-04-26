@@ -1,0 +1,21 @@
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.exe.config
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.exe
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.pdb
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csprojAssemblyReference.cache
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.Form1.resources
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.Properties.Resources.resources
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.GenerateResource.cache
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.exe
+C:\Users\GTQYQS\Desktop\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.pdb
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.exe.config
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.exe
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\bin\Debug\MemoryGame_FinalProject.pdb
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.Form1.resources
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.exe
+\\Mac\Home\Downloads\high school projects\MemoryGame_FinalProject\MemoryGame_FinalProject\obj\Debug\MemoryGame_FinalProject.pdb
